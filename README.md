@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f0r3ns1k3r
+- 👋 Hi, I’m @f0r3ns1k3r - german, english and swedish speeking forensic n3rd
 - 👀 I’m interested in forensic, coding, ai and high performance computing!
 - 🌱 I’m currently learning to combine the best abilities of ai and hpc to solve difficult forensic cases!
 
